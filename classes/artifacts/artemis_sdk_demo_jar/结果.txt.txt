@@ -1,0 +1,10 @@
+is Failed,statusCode:404 errorMsg:null
+fomeResult结果示例: {"timestamp":1558160999125,"status":404,"error":"Not Found",
+"message":"Not Found","path":"/artemis/api/artemis/v1/plus"}
+14:30:00.087 [main] INFO  c.h.artemis.sdk.ArtemisHttpUtil - the Artemis Request
+is Success,statusCode:200 SuccessMsg:{"code":"0x02401008","msg":"Unauthorized Co
+nsumer!"}
+StringeResult结果示例: {"code":"0x02401008","msg":"Unauthorized Consumer!"}
+body: {"svrIndexCode":"30a80833-9ced-46c0-bf53-441a6121856e","picUri":"/pic?6dd5
+99z4a-=s72e48118f119--7037797c5e819i0b2*=ids1*=idp3*=*d3i0t=pe4m5115-726ccd4*ef8
+bi12i73="}
